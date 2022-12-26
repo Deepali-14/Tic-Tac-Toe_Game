@@ -1,4 +1,4 @@
-# Tic-Tac-Toe_Game
+# Tic-Tac-Toe Game
 1) It is a traditional Tic-Tac-Toe Game.
 2) Here first player is assigned 'X' and second player is assigned 'O' as names respectively. 
 3) Both of them takes their turn one by one.
