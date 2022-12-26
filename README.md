@@ -1,1 +1,2 @@
 # Tic-Tac-Toe_Game
+It is a traditional Tic-Tac-Toe Game where first player is assigned 'X' and other 'O' as names respectively. Both of them takes their turn one by one where let us say player 'X' is by default first one to initiate the game. If a player tries to occupy some laready occupied space, he is given a warning and a chance to play again. The game only ends if either of the two player wins or match draws. 
